@@ -18,3 +18,15 @@
        - 영상 : 조회수  
    5) [KB자산관리](https://omoney.kbstar.com/quics?page=C042014#loading)(지혜)
    6) [KB종합자산관리](https://omoney.kbstar.com/quics?page=C042014#loading)(은효)
+
+## modeling
+### 1. 요약  
+   1) 요약 : 완료  
+   2) 키워드 추출 : 완료 - 코드 수정 필요(추후에)    
+   3) 이미지 생성 : 진행 중
+
+### 2. 말투 변환  
+   1) 데이터셋 : 완료
+   2) 코드 수정 : 진행 중
+
+## PPT
