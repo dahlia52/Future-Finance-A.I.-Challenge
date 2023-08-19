@@ -2,9 +2,9 @@
 제5회 Future Finance A.I. Challenge
 
 # Topic
-효율적 콘텐츠 재발행을 위한 
-AI 기반 콘텐츠 자동 생성 서비스 
-![image](https://github.com/dahlia52/Future-Finance-A.I.-Challenge/assets/101353482/bda9d3fb-67a8-4c8e-8e89-b4236912c752)
+효율적 콘텐츠 재발행을 위한 AI 기반 콘텐츠 자동 생성 서비스 , KB Creator
+
+
 
 
 ## Contributors
