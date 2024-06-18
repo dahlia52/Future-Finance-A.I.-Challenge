@@ -31,3 +31,4 @@
 
 
 ## PPT
+[PPT](https://github.com/dahlia52/Future-Finance-A.I.-Challenge/blob/main/KBCreator.pdf)
