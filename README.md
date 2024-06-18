@@ -25,9 +25,9 @@
    6) [KB종합자산관리](https://omoney.kbstar.com/quics?page=C042014#loading)(은효)
 
 ## modeling
-### 1. 요약  
+#### 1. 요약  
 
-### 2. 말투 변환  
+#### 2. 말투 변환  
 
 
 ## PPT
